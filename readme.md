@@ -16,13 +16,13 @@
       <h2 align="center">👨‍💻 About Me (<code>gautam.json</code>)</h2>
 <pre lang="json">
 {
-  "name": "Gautam Sagar",
-  "education": "B.Tech Computer Science & Engineering (CSE)",
-  "role": "Full Stack 3D Web Developer",
-  "weapons": ["React", "Next.js", "Three.js", "WebGL"],
-  "current_quest": "Advanced 3D Architectures & Web3",
-  "featured_project": "github.com/codergautam900/NeuroPortfolio-3D",
-  "contact": "gateaspirant8650@gmail.com"
+"name": "Gautam Sagar",
+"role": "Software Developer | Full-Stack • AI/ML • Blockchain",
+"tech": ["React", "Next.js", "Node.js", "MongoDB", "Python", "Three.js"],
+"focus": "Scalable Systems • SaaS • Real-Time • AI Integration",
+"project": "SustainOS AI",
+"portfolio": "github.com/codergautam900/NeuroPortfolio-3D",
+"contact": "gateaspirant8650@gmail.com"
 }
 </pre>
     </td>
